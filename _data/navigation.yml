@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: Personal
+  url: /personal/
+  excerpt: "About me."
+  image: 
+
+- title: Research
+  url: /research/
+  excerpt: "Research topics related to political science, economic history, and statistics."
+  image: 
+
+- title: Teaching
+  url: /teaching/
+  excerpt: "Courses that I teach."
+  image: 
+
+- title: CV
+  url:   /cv/
+  excerpt: "My C.V."
+  image: 

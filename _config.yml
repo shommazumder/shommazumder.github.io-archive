@@ -1,0 +1,65 @@
+# Site wide configuration
+
+title: "Shom Mazumder"
+description: "PhD candidate at Harvard studying the role of violence in shaping political behavior."
+logo: default-teaser.jpg
+teaser: default-teaser.jpg
+locale: en
+url: http://localhost:3000
+feed:
+  path: atom.xml
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+
+# Site owner
+owner:
+  name: Shom Mazumder
+  email: smazumder@g.harvard.edu
+  twitter: shom_mazumder
+  google:
+    ad-client:
+    ad-slot:
+  bio:
+  avatar: shom-bio.jpg # 160x160 px image for author byline
+  disqus-shortname:
+
+
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
