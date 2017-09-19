@@ -14,7 +14,7 @@ layout: archive
 
 #### Working Papers
 
-1. Mazumder, Soumyajit. 2017. ["A Change is Gonna' Come: The Persistent Effect of the US Civil Rights Movement on Political Attitudes."]({{site.url}}/files/long-term-protests-v2.pdf) \(Under review\)
+1. Mazumder, Soumyajit. 2017. ["A Change is Gonna' Come: The Persistent Effect of the US Civil Rights Movement on Political Attitudes."]({{site.url}}/files/long-term-protests-v2.pdf) \(Revise \& Resubmit at the American Journal of Political Science\)
 2. Mazumder, Soumyajit. 2017. ["The Slave Order in American Political Development: Evidence from the New Deal Era."]({{site.url}}/files/slave-order-v2.pdf) \(Under review\)
 3. Mazumder, Soumyajit. 2017. ["Does Public Policy Make Citizens? Causal Estimates of the Impact of Welfare State Participation on Democratic Citizenship"]({{site.url}}files/mazumder_medicare_v2.pdf) \(Under review\)
 4. [Feigenbaum, James \(Boston University\)](http://jamesfeigenbaum.github.io/), Soumyajit Mazumder, and Cory Smith \(MIT\). 2017. "The Economic Origins and Legacies of Racial Repression: Evidence from a Historical Natural Experiment in the U.S. South."
