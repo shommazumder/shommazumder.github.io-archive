@@ -26,8 +26,8 @@ layout: archive
 10. Mazumder, Soumyajit. 2017. ["Becoming White: How Mass Warfare Turned Immigrants into Americans."]({{site.url}}/files/war-assimilation-mazumder.pdf)
 9. [Fouka, Vasiliki](https://people.stanford.edu/vfouka/), Soumyajit Mazumder, and [Marco Tabellini](http://economics.mit.edu/grad/mtabe). 2017. "From Immigrants to Americans: Race, Status, and Assimilation during the First Great Migration." \(Please email me for the latest draft.\)
 8. Mazumder, Soumyajit and [Jon Rogowski](https://scholar.harvard.edu/rogowski). 2017. ["Distributive Politics, Presidential Particularism, and War."]({{site.url}}/files/war-particularism.pdf)
-7. [Feigenbaum, James](http://jamesfeigenbaum.github.io/), Soumyajit Mazumder, and Cory Smith. 2017. "The Economic Origins and Legacies of Racial Repression: Evidence from a Historical Natural Experiment in the U.S. South."
-6. [Feigenbaum, James](http://jamesfeigenbaum.github.io/) and Soumyajit Mazumder. 2017. "The Economic Origins of Political Competition in the U.S. South."
+7. [Feigenbaum, James](http://jamesfeigenbaum.github.io/), Soumyajit Mazumder, and Cory Smith. 2017. "The Economic Origins and Legacies of Racial Repression: Evidence from a Historical Natural Experiment in the U.S. South." \(Please email me for the latest draft.\)
+6. [Feigenbaum, James](http://jamesfeigenbaum.github.io/) and Soumyajit Mazumder. 2017. "The Economic Origins of Political Competition in the U.S. South." \(Please email me for the latest draft.\)
 5. Mazumder, Soumyajit and [James Vreeland](http://www.profvreeland.com/). 2017. ["Does Foreign Aid Work? Evidence from a Natural Experiment in International Relations."]({{site.url}}/files/mazumder_vreeland_aid_v2.pdf)
 4. Mazumder, Soumyajit. 2017. "Identification and Estimation of Causal Effects with Aggregated Regression Discontinuities with an Application to Unionization." \(Please email me for the latest draft.\)
 3. Hill, Mark, [Jaclyn Kaslovsky](https://scholar.harvard.edu/jaclynkaslovsky/home), and Soumyajit Mazumder. 2017. "Language and Legislation: How the Branding of Legislation Spreads throughout the Chambers." \(Please email me for the latest draft.\)
