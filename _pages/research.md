@@ -36,14 +36,15 @@ layout: archive
 
 #### Ongoing Projects
 
-8. War Changes Everything: How Mass Warfare Fundamentally Shapes Who We Are \(Book Project\)
-7. The Economic and Political Legacies of the New Deal: Evidence from Linked Administrative Data \(with Jacob Brown, [Ryan Enos](http://ryandenos.com/), and [James Feigenbaum](http://jamesfeigenbaum.github.io/) with support from the [Russell Sage Foundation](https://www.russellsage.org/)\)
-6. Rich Man's War, Immigrants' Fight? Why Immigrants Enlist to Fight, 1860-1918
+1. War Changes Everything: How Mass Warfare Fundamentally Shapes Who We Are \(Book Project\)
+2. A Formal Model of Diversity, Coercion, and Development
+3. The Economic and Political Legacies of the New Deal: Evidence from Linked Administrative Data \(with Jacob Brown, [Ryan Enos](http://ryandenos.com/), and [James Feigenbaum](http://jamesfeigenbaum.github.io/) with support from the [Russell Sage Foundation](https://www.russellsage.org/)\)
+4. Rich Man's War, Immigrants' Fight? Why Immigrants Enlist to Fight, 1860-1918
 5. Losing the Monopoly on Violence: Rebellion, Local Elites, and the Downfall of Imperial China \(with [Yuhua Wang](https://scholar.harvard.edu/yuhuawang/biocv)\)
-4. Patronage and Clientelism in the Age of Mass Migration \(with [James Snyder](https://scholar.harvard.edu/jsnyder/home)\)
-3. The Political and Industrial Origins of Convict Lease
-2. Reconstruction and Structural Change in the U.S. South \(with [Jeffry Frieden](https://scholar.harvard.edu/jfrieden/home), [Richard Grossman](http://rgrossman.faculty.wesleyan.edu/), and [Saumitra Jha](https://people.stanford.edu/saumitra/)\)
-1. A Quantitative Political and Social History of the American Revolution \(with Amy Uden\)
+6. Patronage and Clientelism in the Age of Mass Migration \(with [James Snyder](https://scholar.harvard.edu/jsnyder/home)\)
+7. The Political and Industrial Origins of Convict Lease
+8. Reconstruction and Structural Change in the U.S. South \(with [Jeffry Frieden](https://scholar.harvard.edu/jfrieden/home), [Richard Grossman](http://rgrossman.faculty.wesleyan.edu/), and [Saumitra Jha](https://people.stanford.edu/saumitra/)\)
+9. A Quantitative Political and Social History of the American Revolution \(with Amy Uden\)
 
 For further details on ongoing work, see the below groups of projects:
 
