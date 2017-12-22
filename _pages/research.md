@@ -15,17 +15,35 @@ layout: archive
 	* [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JV2PQS)
 	* Completed as an undergraduate
 
+#### Under Review
+
+2. Mazumder, Soumyajit. 2017. ["Does Public Policy Make Citizens? Causal Estimates of the Impact of Welfare State Participation on Democratic Citizenship."]({{site.url}}/files/mazumder_medicare_v4_full.pdf)
+1. Mazumder, Soumyajit. 2017. ["The Slave Order in American Political Development."]({{site.url}}/files/slave-order-v2.pdf)
+
 #### Working Papers
 
-9. Mazumder, Soumyajit. 2017. ["The Slave Order in American Political Development: Evidence from the New Deal Era."]({{site.url}}/files/slave-order-v2.pdf) \(Under review\)
-8. Mazumder, Soumyajit. 2017. ["Does Public Policy Make Citizens? Causal Estimates of the Impact of Welfare State Participation on Democratic Citizenship"]({{site.url}}/files/mazumder_medicare_v4_full.pdf) \(Under review\)
-7. [Feigenbaum, James \(Boston University\)](http://jamesfeigenbaum.github.io/), Soumyajit Mazumder, and Cory Smith \(MIT\). 2017. "The Economic Origins and Legacies of Racial Repression: Evidence from a Historical Natural Experiment in the U.S. South."
-6. [Feigenbaum, James \(Boston University\)](http://jamesfeigenbaum.github.io/) and Soumyajit Mazumder. 2017. "The Economic Origins of Political Competition in the U.S. South."
-5. Mazumder, Soumyajit. 2017. "War, Women, and the Violent Origins of Gender Equality."
-4. Kaslovsky, Jaclyn \(Harvard University\), Soumyajit Mazumder, and Mark Hill \(Harvard University\). 2017. "Language and Legislation: How the Branding of Legislation Spreads throughout the Chambers."
-3. Mazumder, Soumyajit. 2017. "Identification and Estimation of Causal Effects with Aggregated Regression Discontinuities with an Application to Union Certification Elections."
-2. Mazumder, Soumyajit and [James Raymond Vreeland \(Georgetown University\)](http://www.profvreeland.com/). 2017. "Does Foreign Aid Work? Evidence from a Natural Experiment in International Relations"
-1. Mazumder, Soumyajit. 2017. ["Becoming White: How Mass Warfare Turned Immigrants into Americans."]({{site.url}}/files/war-assimilation-mazumder.pdf)
+11. Mazumder, Soumyajit. 2017. ["War, Women, and the Violent Origins of Gender Equality"]({{site.url}}/files/ww1-political-v2.pdf)
+10. Mazumder, Soumyajit. 2017. ["Becoming White: How Mass Warfare Turned Immigrants into Americans."]({{site.url}}/files/war-assimilation-mazumder.pdf)
+9. [Fouka, Vasiliki](https://people.stanford.edu/vfouka/), Soumyajit Mazumder, and [Marco Tabellini](http://economics.mit.edu/grad/mtabe). 2017. "From Immigrants to Americans: Race, Status, and Assimilation during the First Great Migration." \(Please email me for the latest draft.\)
+8. Mazumder, Soumyajit and [Jon Rogowski](https://scholar.harvard.edu/rogowski). 2017. ["Distributive Politics, Presidential Particularism, and War."]({{site.url}}/files/war-particularism.pdf)
+7. [Feigenbaum, James](http://jamesfeigenbaum.github.io/), Soumyajit Mazumder, and Cory Smith. 2017. "The Economic Origins and Legacies of Racial Repression: Evidence from a Historical Natural Experiment in the U.S. South."
+6. [Feigenbaum, James](http://jamesfeigenbaum.github.io/) and Soumyajit Mazumder. 2017. "The Economic Origins of Political Competition in the U.S. South."
+5. Mazumder, Soumyajit and [James Vreeland](http://www.profvreeland.com/). 2017. ["Does Foreign Aid Work? Evidence from a Natural Experiment in International Relations."]({{site.url}}/files/mazumder_vreeland_aid_v2.pdf)
+4. Mazumder, Soumyajit. 2017. "Identification and Estimation of Causal Effects with Aggregated Regression Discontinuities with an Application to Unionization." \(Please email me for the latest draft.\)
+3. Hill, Mark, [Jaclyn Kaslovsky](https://scholar.harvard.edu/jaclynkaslovsky/home), and Soumyajit Mazumder. 2017. "Language and Legislation: How the Branding of Legislation Spreads throughout the Chambers." \(Please email me for the latest draft.\)
+2. Mazumder, Soumyajit and [Ariel White](https://arwhite.mit.edu/). 2017. "How Street-Level Bureaucrats Respond to Protest." \(Please email me for the latest draft.\)
+1. Mazumder, Soumyajit. 2017. ["Implausibly Exogenous? Sensitivity Analysis for the Ignorability Assumption in Instrumental Variables Design."]({{site.url}}/files/mazumder-ivsens-v1.pdf)
+
+#### Ongoing Projects
+
+8. War Changes Everything: How Mass Warfare Fundamentally Shapes Who We Are \(Book Project\)
+7. The Economic and Political Legacies of the New Deal: Evidence from Linked Administrative Data \(with Jacob Brown, [Ryan Enos](http://ryandenos.com/), and [James Feigenbaum](http://jamesfeigenbaum.github.io/) with support from the [Russell Sage Foundation](https://www.russellsage.org/)\)
+6. Rich Man's War, Immigrants' Fight? Why Immigrants Enlist to Fight, 1860-1918
+5. Losing the Monopoly on Violence: Rebellion, Local Elites, and the Downfall of Imperial China \(with [Yuhua Wang](https://scholar.harvard.edu/yuhuawang/biocv)\)
+4. Patronage and Clientelism in the Age of Mass Migration \(with [James Snyder](https://scholar.harvard.edu/jsnyder/home)\)
+3. The Political and Industrial Origins of Convict Lease
+2. Reconstruction and Structural Change in the U.S. South \(with [Jeffry Frieden](https://scholar.harvard.edu/jfrieden/home), [Richard Grossman](http://rgrossman.faculty.wesleyan.edu/), and [Saumitra Jha](https://people.stanford.edu/saumitra/)\)
+1. A Quantitative Political and Social History of the American Revolution \(with Amy Uden\)
 
 For further details on ongoing work, see the below groups of projects:
 
