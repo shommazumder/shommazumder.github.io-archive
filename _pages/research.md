@@ -9,8 +9,10 @@ layout: archive
 
 1. Mazumder, Soumyajit. 2017. ["Autocracies and the International Sources of Cooperation."](http://journals.sagepub.com/doi/abs/10.1177/0022343316687018) *Journal of Peace Research* 54\(3\): 412-426
 	* [Replication Materials](https://static-content.springer.com/esm/art%3A10.1007%2Fs11558-015-9235-7/MediaObjects/11558_2015_9235_MOESM1_ESM.zip)
+	* Undergraduate Thesis
 2. Mazumder, Soumyajit. 2016. ["Can I Stay a BIT Longer? The Effect of Bilateral Investment Treaties on Political Survival."](https://link.springer.com/article/10.1007/s11558-015-9235-7) *The Review of International Organizations* 11\(4\): 477-521.
 	* [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JV2PQS)
+	* Completed as an undergraduate
 
 #### Working Papers
 
