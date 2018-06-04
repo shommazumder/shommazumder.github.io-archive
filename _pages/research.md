@@ -24,7 +24,7 @@ layout: archive
 #### Working Papers
 
 1. Mazumder, Soumyajit. 2017. ["War, Women, and the Violent Origins of Gender Equality"](https://www.dropbox.com/s/igk8h532n922dc7/ww1-political-v2.pdf?raw=1)
-2. Mazumder, Soumyajit. 2017. ["Becoming White: How Mass Warfare Turned Immigrants into Americans."]({{site.url}}/files/war-assimilation-mazumder.pdf)
+2. Mazumder, Soumyajit. 2017. ["Becoming White: How Mass Warfare Turned Immigrants into Americans."](https://www.dropbox.com/s/f4u583cju7q2caq/war-assimilation-mazumder.pdf?raw=1)
 3. [Fouka, Vasiliki](https://people.stanford.edu/vfouka/), Soumyajit Mazumder, and [Marco Tabellini](http://economics.mit.edu/grad/mtabe). 2017. ["From Immigrants to Americans: Race, Status, and Assimilation during the First Great Migration."](https://www.dropbox.com/s/d195aja5xjl0909/fmt-assimilation-v3.pdf?raw=1)
 4. Mazumder, Soumyajit and [Jon Rogowski](https://scholar.harvard.edu/rogowski). 2017. ["Distributive Politics, Presidential Particularism, and War."](https://www.dropbox.com/s/mpwqiui696ywy91/war-particularism.pdf?raw=1)
 5. [Feigenbaum, James](http://jamesfeigenbaum.github.io/), Soumyajit Mazumder, and Cory Smith. 2017. "The Economic Origins and Legacies of Racial Repression: Evidence from a Historical Natural Experiment in the U.S. South."
