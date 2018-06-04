@@ -7,31 +7,31 @@ layout: archive
 
 #### Publications 
 
-3. Mazumder, Soumyajit. Forthcoming. ["The Persistent Effect of the US Civil Rights Movement on Political Attitudes."]({{site.url}}/files/civ-rights-manuscript.pdf) *American Journal of Political Science*
-2. Mazumder, Soumyajit. 2017. ["Autocracies and the International Sources of Cooperation."](http://journals.sagepub.com/doi/abs/10.1177/0022343316687018) *Journal of Peace Research* 54\(3\): 412-426
+3. Mazumder, Soumyajit. Forthcoming. ["The Persistent Effect of the US Civil Rights Movement on Political Attitudes."](https://www.dropbox.com/s/16alco32l3seqq6/civ-rights-manuscript.pdf?raw=1) *American Journal of Political Science*
+2. Mazumder, Soumyajit. 2017. ["Autocracies and the International Sources of Cooperation."](https://www.dropbox.com/s/nbke8xin0x31hy9/Mazumder_JPR_2017.pdf?raw=1) *Journal of Peace Research* 54\(3\): 412-426
 	* [Replication Materials](https://static-content.springer.com/esm/art%3A10.1007%2Fs11558-015-9235-7/MediaObjects/11558_2015_9235_MOESM1_ESM.zip)
 	* Undergraduate Thesis
-1. Mazumder, Soumyajit. 2016. ["Can I Stay a BIT Longer? The Effect of Bilateral Investment Treaties on Political Survival."](https://link.springer.com/article/10.1007/s11558-015-9235-7) *The Review of International Organizations* 11\(4\): 477-521.
+1. Mazumder, Soumyajit. 2016. ["Can I Stay a BIT Longer? The Effect of Bilateral Investment Treaties on Political Survival."](https://www.dropbox.com/s/f8ll3c6sfo96yto/Mazumder_2015_RIO.pdf?raw=1) *The Review of International Organizations* 11\(4\): 477-521.
 	* [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JV2PQS)
 	* Completed as an undergraduate
 
 #### Under Review
 
-1. Mazumder, Soumyajit. 2017. ["Implausibly Exogenous? Sensitivity Analysis for the Ignorability Assumption in Instrumental Variables Design."]({{site.url}}/files/mazumder-ivsens-v1.pdf)
-2. Mazumder, Soumyajit. 2017. ["Policy Feedbacks and the Structure of Redistribution: Quasi-Experimental Evidence from Medicare, 2008-2012."]({{site.url}}/files/mazumder_medicare_v5.pdf)
-3. Mazumder, Soumyajit. 2017. ["The Slave Order in American Political Development."]({{site.url}}/files/slave-order-v2.pdf)
+1. Mazumder, Soumyajit. 2017. ["Implausibly Exogenous? Sensitivity Analysis for the Ignorability Assumption in Instrumental Variables Design."](https://www.dropbox.com/s/n0gra6omkwltei7/mazumder-ivsens-v1.pdf?raw=1)
+2. Mazumder, Soumyajit. 2017. ["Policy Feedbacks and the Structure of Redistribution: Quasi-Experimental Evidence from Medicare, 2008-2012."](https://www.dropbox.com/s/ey0tvpz3ppr37qf/mazumder_medicare_v5.pdf?raw=1)
+3. Mazumder, Soumyajit. 2017. ["The Slave Order in American Political Development."](https://www.dropbox.com/s/xqr76qs5rci2pfl/slave-order-v3.pdf?raw=1)
 
 #### Working Papers
 
-1. Mazumder, Soumyajit. 2017. ["War, Women, and the Violent Origins of Gender Equality"]({{site.url}}/files/ww1-political-v2.pdf)
+1. Mazumder, Soumyajit. 2017. ["War, Women, and the Violent Origins of Gender Equality"](https://www.dropbox.com/s/igk8h532n922dc7/ww1-political-v2.pdf?raw=1)
 2. Mazumder, Soumyajit. 2017. ["Becoming White: How Mass Warfare Turned Immigrants into Americans."]({{site.url}}/files/war-assimilation-mazumder.pdf)
-3. [Fouka, Vasiliki](https://people.stanford.edu/vfouka/), Soumyajit Mazumder, and [Marco Tabellini](http://economics.mit.edu/grad/mtabe). 2017. "From Immigrants to Americans: Race, Status, and Assimilation during the First Great Migration." \(Please email me for the latest draft.\)
-4. Mazumder, Soumyajit and [Jon Rogowski](https://scholar.harvard.edu/rogowski). 2017. ["Distributive Politics, Presidential Particularism, and War."]({{site.url}}/files/war-particularism.pdf)
-5. [Feigenbaum, James](http://jamesfeigenbaum.github.io/), Soumyajit Mazumder, and Cory Smith. 2017. "The Economic Origins and Legacies of Racial Repression: Evidence from a Historical Natural Experiment in the U.S. South." \(Please email me for the latest draft.\)
-6. [Feigenbaum, James](http://jamesfeigenbaum.github.io/) and Soumyajit Mazumder. 2017. "The Economic Origins of Political Competition in the U.S. South." \(Please email me for the latest draft.\)
-7. Mazumder, Soumyajit and [James Vreeland](http://www.profvreeland.com/). 2017. ["Does Foreign Aid Work? Evidence from a Natural Experiment in International Relations."]({{site.url}}/files/mazumder_vreeland_aid_v2.pdf)
-8. Mazumder, Soumyajit. 2017. "Identification and Estimation of Causal Effects with Aggregated Regression Discontinuities with an Application to Unionization." \(Please email me for the latest draft.\)
-9. Mazumder, Soumyajit and [Ariel White](https://arwhite.mit.edu/). 2017. "How Street-Level Bureaucrats Respond to Protest." \(Please email me for the latest draft.\)
+3. [Fouka, Vasiliki](https://people.stanford.edu/vfouka/), Soumyajit Mazumder, and [Marco Tabellini](http://economics.mit.edu/grad/mtabe). 2017. ["From Immigrants to Americans: Race, Status, and Assimilation during the First Great Migration."](https://www.dropbox.com/s/d195aja5xjl0909/fmt-assimilation-v3.pdf?raw=1)
+4. Mazumder, Soumyajit and [Jon Rogowski](https://scholar.harvard.edu/rogowski). 2017. ["Distributive Politics, Presidential Particularism, and War."](https://www.dropbox.com/s/mpwqiui696ywy91/war-particularism.pdf?raw=1)
+5. [Feigenbaum, James](http://jamesfeigenbaum.github.io/), Soumyajit Mazumder, and Cory Smith. 2017. "The Economic Origins and Legacies of Racial Repression: Evidence from a Historical Natural Experiment in the U.S. South."
+6. [Feigenbaum, James](http://jamesfeigenbaum.github.io/) and Soumyajit Mazumder. 2017. "The Economic Origins of Political Competition in the U.S. South."
+7. Mazumder, Soumyajit and [James Vreeland](http://www.profvreeland.com/). 2017. ["Does Foreign Aid Work? Evidence from a Natural Experiment in International Relations."](https://www.dropbox.com/s/cup51uuto9d1uiy/mazumder_vreeland_aid_v2.pdf?raw=1)
+8. Mazumder, Soumyajit. 2017. "Identification and Estimation of Causal Effects with Aggregated Regression Discontinuities with an Application to Unionization."
+9. Mazumder, Soumyajit and [Ariel White](https://arwhite.mit.edu/). 2017. "How Street-Level Bureaucrats Respond to Protest."
 10. Jacob Brown,[Ryan Enos](http://ryandenos.com/), [James Feigenbaum](http://jamesfeigenbaum.github.io/), and Soumyajit Mazumder. 2018. "Long-Term Causes of Partisanship: Evidence from Linked Census and Voter File Data."
 
 #### Ongoing Projects
