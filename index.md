@@ -10,7 +10,7 @@ More broadly, my dissertation work fits into a larger research agenda that seeks
 
 A secondary research agenda of mine seeks to understand the causes and consequences of inequality. I examine a wide array of contexts including collective action, unions, automation, and the welfare state within advanced industrialized countries. 
 
-My work is published or forthcoming in the *American Journal of Political Science*, the *Journal of Peace Research*, and the *Review of International Organizations*. You can find my [C.V. here.]({{site.url}}/files/Mazumder_Academic_CV.pdf)
+My work is published or forthcoming in the *American Journal of Political Science*, the *Journal of Peace Research*, and the *Review of International Organizations*. You can find my [C.V. here.](https://www.dropbox.com/s/zlr80hzecyne03v/Mazumder_Academic_CV.pdf?raw=1)
 
 My research benefits from generous support from the following organizations:
 
