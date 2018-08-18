@@ -8,7 +8,7 @@ I am a Ph.D. Candidate in Government at Harvard University and a *James M. and C
 
 More broadly, my dissertation work fits into a larger research agenda that seeks to understand whether and how violence and coercion--both directly and indirectly--in shape the politics of social identity. To study this, I use novel historical and archival "big" data combined with rigorous attention to causality. By putting American politics in historical perspective, I seek to understand how the American experience may not be so different from that of other nations.
 
-A secondary research agenda of mine seeks to understand the causes and consequences of inequality. I examine a wide array of contexts including collective action, unions, automation, and the welfare state within advanced industrialized countries. 
+A secondary research agenda of mine seeks to understand the causes and consequences of inequality. I examine a wide array of contexts including collective action, unions, automation, and the welfare state within advanced industrialized countries using a combination of new data, natural experiments, and field experimental methods.
 
 My work is published or forthcoming in the *American Journal of Political Science*, the *Journal of Peace Research*, and the *Review of International Organizations*. You can find my [C.V. here.](https://www.dropbox.com/s/zlr80hzecyne03v/Mazumder_Academic_CV.pdf?raw=1)
 
