@@ -17,7 +17,8 @@ My research benefits from generous support from the following organizations:
 * [Harvard Kennedy School Malcolm Weiner Center for Social Policy](https://inequality.hks.harvard.edu/)
 * [The Russell Sage Foundation](https://www.russellsage.org/)
 
-See below for a list of projects that I am currently working on.
+
+{% comment %} 
 
 <div class="tiles">
 {% for post in site.posts %}
@@ -25,6 +26,8 @@ See below for a list of projects that I am currently working on.
 	{% include post-grid.html %}
 	{% endif %}
 {% endfor %}
-</div><!-- /.tiles -->
+</div>
+
+{% endcomment %}
 
 
