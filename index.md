@@ -10,13 +10,12 @@ More broadly, my dissertation work fits into a larger research agenda that seeks
 
 A secondary research agenda of mine seeks to understand the causes and consequences of inequality. I examine a wide array of contexts including collective action, unions, automation, and the welfare state within advanced industrialized countries using a combination of new data, natural experiments, and field experimental methods.
 
-My work is published or forthcoming in the *American Journal of Political Science*, the *Journal of Peace Research*, and the *Review of International Organizations*. You can find my [C.V. here.](https://www.dropbox.com/s/zlr80hzecyne03v/Mazumder_Academic_CV.pdf?raw=1)
+My work is published or forthcoming in the *American Journal of Political Science*, the *Journal of Peace Research*, and the *Review of International Organizations*. You can find my [C.V. here](https://www.dropbox.com/s/zlr80hzecyne03v/Mazumder_Academic_CV.pdf?raw=1) or you a list of my [ongoing research here.]({{site.url/research/}})
 
 My research benefits from generous support from the following organizations:
 
 * [Harvard Kennedy School Malcolm Weiner Center for Social Policy](https://inequality.hks.harvard.edu/)
 * [The Russell Sage Foundation](https://www.russellsage.org/)
-
 
 {% comment %} 
 
