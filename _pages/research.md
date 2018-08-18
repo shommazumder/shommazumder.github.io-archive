@@ -42,16 +42,4 @@ layout: archive
 5. Losing the Monopoly on Violence: Rebellion, Local Elites, and the Downfall of Imperial China \(with [Yuhua Wang](https://scholar.harvard.edu/yuhuawang/biocv)\)
 6. The Political and Industrial Origins of Convict Lease
 
-For further details on ongoing work, see the below groups of projects:
-
-<!---
-<div class="tiles">
-{% for post in site.posts %}
-	{% if post.category == 'research'%}
-	{% include post-grid.html %}
-	{% endif %}
-{% endfor %}
-</div> 
---->
-
 
