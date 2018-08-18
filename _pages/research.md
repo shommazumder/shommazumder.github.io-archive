@@ -8,6 +8,7 @@ layout: archive
 #### Publications 
 
 3. Mazumder, Soumyajit. Forthcoming. ["The Persistent Effect of the US Civil Rights Movement on Political Attitudes."](https://www.dropbox.com/s/16alco32l3seqq6/civ-rights-manuscript.pdf?raw=1) *American Journal of Political Science*
+	* [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WKJJ3Z)
 2. Mazumder, Soumyajit. 2017. ["Autocracies and the International Sources of Cooperation."](https://www.dropbox.com/s/nbke8xin0x31hy9/Mazumder_JPR_2017.pdf?raw=1) *Journal of Peace Research* 54\(3\): 412-426
 	* [Replication Materials](https://static-content.springer.com/esm/art%3A10.1007%2Fs11558-015-9235-7/MediaObjects/11558_2015_9235_MOESM1_ESM.zip)
 	* Undergraduate Thesis
