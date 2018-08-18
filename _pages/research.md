@@ -44,14 +44,14 @@ layout: archive
 
 For further details on ongoing work, see the below groups of projects:
 
-<!--
+<!---
 <div class="tiles">
 {% for post in site.posts %}
 	{% if post.category == 'research'%}
 	{% include post-grid.html %}
 	{% endif %}
 {% endfor %}
-</div>
--->
+</div> 
+--->
 
 
