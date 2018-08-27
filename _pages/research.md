@@ -31,7 +31,7 @@ layout: archive
 5. Mazumder, Soumyajit and [Jon Rogowski](https://scholar.harvard.edu/rogowski). 2017. ["Distributive Politics, Presidential Particularism, and War."](https://www.dropbox.com/s/mpwqiui696ywy91/war-particularism.pdf?raw=1)
 8. Mazumder, Soumyajit and [Brian Hamel](https://brianhamel.net/). 2018. "Does Unionization Lead to Left-Wing Politics? Quasi-Experimental Evidence from the United States."
 9. Mazumder, Soumyajit and [Ariel White](https://arwhite.mit.edu/). 2017. "How Street-Level Bureaucrats Respond to Protest."
-10. Jacob Brown,[Ryan Enos](http://ryandenos.com/), [James Feigenbaum](http://jamesfeigenbaum.github.io/), and Soumyajit Mazumder. 2018. "Long-Term Causes of Partisanship: Evidence from Linked Census and Voter File Data."
+10. Jacob Brown,[Ryan Enos](http://ryandenos.com/), [James Feigenbaum](http://jamesfeigenbaum.github.io/), and Soumyajit Mazumder. 2018. ["Long-Term Causes of Partisanship: Evidence from Linked Census and Voter File Data."](https://www.dropbox.com/s/aaocr5rk1jvoz29/BrownEnosFeigenbaumMazumder.pdf?raw=1)
 
 #### Ongoing Projects
 
