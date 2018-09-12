@@ -27,12 +27,9 @@ layout: archive
 
 1. Mazumder, Soumyajit. 2018. ["Becoming White: How Mass Warfare Turned Immigrants into Americans."](https://www.dropbox.com/s/f4u583cju7q2caq/war-assimilation-mazumder.pdf?raw=1)
 2. Mazumder, Soumyajit. 2018. "Rich Man's War, Immigrants' Fight: The Social Dimensions of Military Service in the U.S. Civil War, 1850-1865."
-3. Mazumder, Soumyajit. 2017. ["War, Women, and the Violent Origins of Gender Equality"](https://www.dropbox.com/s/igk8h532n922dc7/ww1-political-v2.pdf?raw=1)
-4. [Feigenbaum, James](http://jamesfeigenbaum.github.io/), Soumyajit Mazumder, and Cory Smith. 2018. "The Economic Origins and Legacies of Racial Repression: Evidence from a Historical Natural Experiment in the U.S. South."
-5. Mazumder, Soumyajit and [Jon Rogowski](https://scholar.harvard.edu/rogowski). 2017. ["Distributive Politics, Presidential Particularism, and War."](https://www.dropbox.com/s/mpwqiui696ywy91/war-particularism.pdf?raw=1)
-6. Mazumder, Soumyajit and [Brian Hamel](https://brianhamel.net/). 2018. "Does Unionization Lead to Left-Wing Politics? Quasi-Experimental Evidence from the United States."
-7. Mazumder, Soumyajit and [Ariel White](https://arwhite.mit.edu/). 2017. "How Street-Level Bureaucrats Respond to Protest."
-8. Jacob Brown,[Ryan Enos](http://ryandenos.com/), [James Feigenbaum](http://jamesfeigenbaum.github.io/), and Soumyajit Mazumder. 2018. ["Long-Term Causes of Partisanship: Evidence from Linked Census and Voter File Data."](https://www.dropbox.com/s/aaocr5rk1jvoz29/BrownEnosFeigenbaumMazumder.pdf?raw=1)
+3. [Feigenbaum, James](http://jamesfeigenbaum.github.io/), Soumyajit Mazumder, and Cory Smith. 2018. "The Economic Origins and Legacies of Racial Repression: Evidence from a Historical Natural Experiment in the U.S. South."
+4. Mazumder, Soumyajit and [Jon Rogowski](https://scholar.harvard.edu/rogowski). 2017. ["Distributive Politics, Presidential Particularism, and War."](https://www.dropbox.com/s/mpwqiui696ywy91/war-particularism.pdf?raw=1)
+5. Jacob Brown,[Ryan Enos](http://ryandenos.com/), [James Feigenbaum](http://jamesfeigenbaum.github.io/), and Soumyajit Mazumder. 2018. ["Long-Term Causes of Partisanship: Evidence from Linked Census and Voter File Data."](https://www.dropbox.com/s/aaocr5rk1jvoz29/BrownEnosFeigenbaumMazumder.pdf?raw=1)
 
 #### Ongoing Projects
 
