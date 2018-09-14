@@ -18,25 +18,23 @@ layout: archive
 
 #### Under Review
 
-1. Mazumder, Soumyajit. 2018. ["Implausibly Exogenous? Sensitivity Analysis for the Ignorability Assumption in Instrumental Variables Design."](https://www.dropbox.com/s/n0gra6omkwltei7/mazumder-ivsens-v1.pdf?raw=1)
-2. Mazumder, Soumyajit. 2018. ["Policy Feedbacks and the Structure of Redistribution: Quasi-Experimental Evidence from Medicare, 2008-2012."](https://www.dropbox.com/s/ey0tvpz3ppr37qf/mazumder_medicare_v5.pdf?raw=1)
-3. Mazumder, Soumyajit. 2018. ["The Slave Order in American Political Development."](https://www.dropbox.com/s/xqr76qs5rci2pfl/slave-order-v3.pdf?raw=1)
-4. [Fouka, Vasiliki](https://people.stanford.edu/vfouka/), Soumyajit Mazumder, and [Marco Tabellini](http://economics.mit.edu/grad/mtabe). 2018. ["From Immigrants to Americans: Race, Status, and Assimilation during the First Great Migration."](https://www.dropbox.com/s/d195aja5xjl0909/fmt-assimilation-v3.pdf?raw=1)
+1. Mazumder, Soumyajit. 2018. ["The Slave Order in American Political Development."](https://www.dropbox.com/s/xqr76qs5rci2pfl/slave-order-v3.pdf?raw=1)
+2. [Fouka, Vasiliki](https://people.stanford.edu/vfouka/), Soumyajit Mazumder, and [Marco Tabellini](http://economics.mit.edu/grad/mtabe). 2018. ["From Immigrants to Americans: Race, Status, and Assimilation during the First Great Migration."](https://www.dropbox.com/s/d195aja5xjl0909/fmt-assimilation-v3.pdf?raw=1)
+3. Mazumder, Soumyajit. 2018. ["Implausibly Exogenous? Sensitivity Analysis for the Ignorability Assumption in Instrumental Variables Design."](https://www.dropbox.com/s/n0gra6omkwltei7/mazumder-ivsens-v1.pdf?raw=1)
+4. Mazumder, Soumyajit. 2018. ["Policy Feedbacks and the Structure of Redistribution: Quasi-Experimental Evidence from Medicare, 2008-2012."](https://www.dropbox.com/s/ey0tvpz3ppr37qf/mazumder_medicare_v5.pdf?raw=1)
 
 #### Working Papers
 
 1. Mazumder, Soumyajit. 2018. ["Becoming White: How Mass Warfare Turned Immigrants into Americans."](https://www.dropbox.com/s/f4u583cju7q2caq/war-assimilation-mazumder.pdf?raw=1)
-2. Mazumder, Soumyajit. 2018. "Rich Man's War, Immigrants' Fight: The Social Dimensions of Military Service in the U.S. Civil War, 1850-1865."
-3. [Feigenbaum, James](http://jamesfeigenbaum.github.io/), Soumyajit Mazumder, and Cory Smith. 2018. "The Economic Origins and Legacies of Racial Repression: Evidence from a Historical Natural Experiment in the U.S. South."
-4. Mazumder, Soumyajit and [Jon Rogowski](https://scholar.harvard.edu/rogowski). 2017. ["Distributive Politics, Presidential Particularism, and War."](https://www.dropbox.com/s/mpwqiui696ywy91/war-particularism.pdf?raw=1)
-5. Jacob Brown,[Ryan Enos](http://ryandenos.com/), [James Feigenbaum](http://jamesfeigenbaum.github.io/), and Soumyajit Mazumder. 2018. ["Long-Term Causes of Partisanship: Evidence from Linked Census and Voter File Data."](https://www.dropbox.com/s/aaocr5rk1jvoz29/BrownEnosFeigenbaumMazumder.pdf?raw=1)
+2. [Feigenbaum, James](http://jamesfeigenbaum.github.io/), Soumyajit Mazumder, and Cory Smith. 2018. "The Economic Origins and Legacies of Racial Repression: Evidence from a Historical Natural Experiment in the U.S. South."
+3. Jacob Brown,[Ryan Enos](http://ryandenos.com/), [James Feigenbaum](http://jamesfeigenbaum.github.io/), and Soumyajit Mazumder. 2018. ["Long-Term Causes of Partisanship: Evidence from Linked Census and Voter File Data."](https://www.dropbox.com/s/aaocr5rk1jvoz29/BrownEnosFeigenbaumMazumder.pdf?raw=1)
 
 #### Ongoing Projects
 
 1. Immigrants into Americans: The Political Origins of National Assimmilation, 1880-1930 \(Book Project\)
-2. A Formal Model of Diversity, Coercion, and Development
+2. Rich Man's War, Immigrant's Fight? The Social Origins of Military Service during the U.S. Civil War
 3. The Economic and Political Legacies of the New Deal: Evidence from Linked Administrative Data \(with Jacob Brown, [Ryan Enos](http://ryandenos.com/), and [James Feigenbaum](http://jamesfeigenbaum.github.io/) with support from the [Russell Sage Foundation](https://www.russellsage.org/)\)
-4. Losing the Monopoly on Violence: Rebellion, Local Elites, and the Downfall of Imperial China \(with [Yuhua Wang](https://scholar.harvard.edu/yuhuawang/biocv)\)
-5. The Political and Industrial Origins of Convict Lease
+4. The Political and Industrial Origins of Convict Lease
+
 
 
