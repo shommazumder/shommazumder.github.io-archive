@@ -28,6 +28,7 @@ layout: archive
 1. Mazumder, Soumyajit. 2018. ["Becoming White: How Mass Warfare Turned Immigrants into Americans."](https://www.dropbox.com/s/f4u583cju7q2caq/war-assimilation-mazumder.pdf?raw=1)
 2. [Feigenbaum, James](http://jamesfeigenbaum.github.io/), Soumyajit Mazumder, and Cory Smith. 2018. "The Economic Origins and Legacies of Racial Repression: Evidence from a Historical Natural Experiment in the U.S. South."
 3. Jacob Brown,[Ryan Enos](http://ryandenos.com/), [James Feigenbaum](http://jamesfeigenbaum.github.io/), and Soumyajit Mazumder. 2018. ["Long-Term Causes of Partisanship: Evidence from Linked Census and Voter File Data."](https://www.dropbox.com/s/aaocr5rk1jvoz29/BrownEnosFeigenbaumMazumder.pdf?raw=1)
+4. Mazumder, Soumyajit. 2018. ["Black Lives Matter for Whites' Racial Prejudice: Assessing the Role of Social Movements in Shaping Racial Attitudes in the United States"](https://www.dropbox.com/s/5jdzi0wbvd62l1y/blm-attitudes-v1.pdf?raw=1)
 
 #### Ongoing Projects
 
